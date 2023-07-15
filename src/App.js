@@ -8,7 +8,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
-          <p>Deployment is happening here!</p>
+          <p>Deployment is happening here! OK</p>
         </div>
       </div>
     );
